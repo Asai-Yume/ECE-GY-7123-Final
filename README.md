@@ -196,4 +196,4 @@ Each version's notebook is end-to-end self-contained. To reproduce a specific ab
 
 ## AI Tooling Disclosure
 
-- **Claude (Anthropic):** Coding assistance, debugging, error analysis, report drafting, and figure verification.
+- **Claude (Anthropic):** Coding assistance, debugging, report drafting.

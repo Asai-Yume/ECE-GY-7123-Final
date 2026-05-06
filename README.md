@@ -4,7 +4,7 @@
 
 Fine-tuning SmolVLM-500M-Instruct on a ScienceQA-derived visual multiple-choice benchmark using LoRA via PEFT, under a 5M trainable-parameter cap on a single Tesla T4 GPU.
 
-[Link to adapters and outputs on Google Drive]https://drive.google.com/drive/folders/1SmzQLMMpoZDNWgxE5WqZnmIioFgJyYGn?usp=drive_link)
+[Link to adapters and outputs on Google Drive](https://drive.google.com/drive/folders/1SmzQLMMpoZDNWgxE5WqZnmIioFgJyYGn?usp=drive_link)
 
 **Best Score: 0.831** (v9-ablation, live-weights inference) · **Best simple SFT: 0.829** (v4) · **Best ensemble: 0.827** (v4 + v9 logit average)
 
